@@ -1,4 +1,5 @@
-cars = 100 #creates the variable cars
+#creates the variable cars
+cars = 100
 
 #creates the variable space_in_a_car
 space_in_a_car = 4
