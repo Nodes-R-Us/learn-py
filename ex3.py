@@ -1,9 +1,9 @@
-#prints the following statement
+#getting a feel for pythons math operators
 print "I will now count my chickens: "
 
-#first adds 25 & 30, then divides by 6
+
 print "Hens", 25 + 30 / 6
-# subtracts 25 from 100 then multiplies by 3, then
+
 print "Roosters", 100 - 25 * 3 % 4
 
 print "Now I will count the eggs: "
